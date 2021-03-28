@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Grazvydas A. Untulis
 - 👀 I’m interested in web development, data analysis and process automation
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on learning
+- 🌱 I’m currently studying React JS
+- 💞️ I’m looking to collaborate on studying
 - 📫 How to reach me grazvydas.untulis@gmail.com
 
 <!---
